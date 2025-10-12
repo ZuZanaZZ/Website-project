@@ -2,9 +2,13 @@
 - This is my final project that I made during my web development class. I have made it to my tastes with cute colours and pictures.
 
 # Closer look at the subsections
-## Header with buttons that change upon howering mouse over them
+## Header with buttons
 
 <img width="800" height="278.53" alt="image" src="https://github.com/user-attachments/assets/843212ae-398d-4e41-8a30-7b3e5db9bb73" />
+
+### Buttons are underlined upon howering mouse over them
+
+<img width="156" height="111" alt="image" src="https://github.com/user-attachments/assets/a2c1a38b-eebb-4190-844a-3fd107deab8c" />
 
 ## Biography section 
 
@@ -31,3 +35,4 @@
 ## Grayscale map
 
 <img width="800" height="239.83" alt="image" src="https://github.com/user-attachments/assets/49eda16e-16c3-4ec2-ab6c-e7df0603f8dd" />
+
