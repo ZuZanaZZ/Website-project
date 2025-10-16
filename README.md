@@ -4,7 +4,7 @@
 # Closer look at the subsections
 ## Header with buttons
 
-<img width="800" height="278.53" alt="image" src="https://github.com/user-attachments/assets/843212ae-398d-4e41-8a30-7b3e5db9bb73" />
+<img width="800" height="278.51" alt="image" src="https://github.com/user-attachments/assets/eb0413a9-f92f-41b1-b893-93ae6bec1bb4" />
 
 ### Buttons are underlined upon howering mouse over them
 
@@ -12,7 +12,7 @@
 
 ## Biography section 
 
-<img width="800" height="251.81" alt="image" src="https://github.com/user-attachments/assets/1f2cbad0-7fdd-46ec-91fb-6b60ff32e4ad" />
+<img width="800" height="250.07" alt="image" src="https://github.com/user-attachments/assets/e76a525d-88f4-4f66-adc5-0e529adcad83" />
 
 ## Showcase of different types of usable cards 
 
@@ -26,7 +26,7 @@
 
 ## Example of contact form
 
-<img width="800" height="291.84" alt="image" src="https://github.com/user-attachments/assets/b9772ff9-ae25-4ea7-ad4f-e284efee2c7d" />
+<img width="800" height="291.5" alt="image" src="https://github.com/user-attachments/assets/86b3e39f-ba1e-41f9-b451-b216a500bb3b" />
 
 ### Button changes colour upon pressing it
 
@@ -35,4 +35,5 @@
 ## Grayscale map
 
 <img width="800" height="239.83" alt="image" src="https://github.com/user-attachments/assets/49eda16e-16c3-4ec2-ab6c-e7df0603f8dd" />
+
 
